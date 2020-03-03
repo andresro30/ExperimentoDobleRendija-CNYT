@@ -42,6 +42,10 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 **Aluminio con la doble rendija**
 
 ![2](https://user-images.githubusercontent.com/59893804/75741371-60814f80-5cd8-11ea-8971-c89ae9988996.jpg)
+![1](https://user-images.githubusercontent.com/59893804/75741382-65460380-5cd8-11ea-8d0c-01eb9166c49c.jpg
+
+## Resultado 
 ![1](https://user-images.githubusercontent.com/59893804/75741382-65460380-5cd8-11ea-8d0c-01eb9166c49c.jpg)
+
 
 
