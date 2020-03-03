@@ -33,9 +33,9 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 * En el papel aluminio abrimos dos pequeñas rendijas muy cerca la una de la otra. 
 * Acomodamos el laser de tal manera que la luz del laser apuntara a las diminutas rendijas.
 
-**Imagenes **
+**Imagenes**
 
-**Base del laser y laser **
+**Base del laser y laser**
 
 ![3](https://user-images.githubusercontent.com/59893804/75741358-54958d80-5cd8-11ea-9fec-97f81cb71c84.jpg)
 
