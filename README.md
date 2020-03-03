@@ -12,4 +12,17 @@ En el experimento estamos usando un laser que arroja un haz de luz sobre una pla
 
 ## Simulación 
 
+## Elaboración 
+**Materiales:**
+* Un palo de balso 
+* Un laser
+* 1/8 cartón piedra 
+* papel aluminio 
+* un bisturi 
+**Pasos:**
+* Hicimos una base para el laser con el palo de balso de tal forma que quedara en forma horizontal apuntando al papel aluminio.
+* Pusimos al frente del laser el papel aluminio extendido. 
+* En el papel aluminio abrimos dos pequeñas rendijas muy cerca la una de la otra. 
+* Acomodamos el laser de tal manera que la luz del laser apuntara a las diminutas rendijas 
+
 
