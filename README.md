@@ -45,7 +45,7 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 ![1](https://user-images.githubusercontent.com/59893804/75741382-65460380-5cd8-11ea-8d0c-01eb9166c49c.jpg
 
 ## Resultado 
-![1](https://user-images.githubusercontent.com/59893804/75741382-65460380-5cd8-11ea-8d0c-01eb9166c49c.jpg)
 
+![4 (2)](https://user-images.githubusercontent.com/59893804/75742556-fc608a80-5cdb-11ea-8a63-4a86a535b194.jpg)
 
 
