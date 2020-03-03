@@ -17,6 +17,8 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 
 
 ## Simulación 
+Para las simulaciones utilizamos un modelo mátematico basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github http://github.com/AlejandroBohal
+
 
 ## Elaboración 
 **Materiales:**
