@@ -34,9 +34,13 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 * Acomodamos el laser de tal manera que la luz del laser apuntara a las diminutas rendijas.
 
 **Imagenes **
+
 **Base del laser y laser **
+
 ![3](https://user-images.githubusercontent.com/59893804/75741358-54958d80-5cd8-11ea-9fec-97f81cb71c84.jpg)
-** Aluminio con la doble rendija **
+
+**Aluminio con la doble rendija**
+
 ![2](https://user-images.githubusercontent.com/59893804/75741371-60814f80-5cd8-11ea-8971-c89ae9988996.jpg)
 ![1](https://user-images.githubusercontent.com/59893804/75741382-65460380-5cd8-11ea-8d0c-01eb9166c49c.jpg)
 
