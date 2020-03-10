@@ -32,29 +32,27 @@ Para las simulaciones utilizamos un modelo mátematico basado en los grafos del 
 * Un palo de balso 
 * Un laser
 * 1/8 cartón piedra 
-* papel aluminio 
+* minas 0.5 
 * un bisturi 
+* cartulina blanca
 
 **Pasos:**
 
-* Hicimos una base para el laser con el palo de balso de tal forma que quedara en forma horizontal apuntando al papel aluminio.
-* Pusimos al frente del laser el papel aluminio extendido. 
-* En el papel aluminio abrimos dos pequeñas rendijas muy cerca la una de la otra. 
-* Acomodamos el laser de tal manera que la luz del laser apuntara a las diminutas rendijas.
+* Pegamos una mina en la mitad del laser logrando el efecto de la doble rendija
+* Hicimos una base con palos de balso 
+* Con la cartulina hicimos una base para reflejar el efecto
 
 **Imagenes**
 
 **Base del laser y laser**
 
-![3](https://user-images.githubusercontent.com/59893804/75741358-54958d80-5cd8-11ea-9fec-97f81cb71c84.jpg)
 
-**Aluminio con la doble rendija**
+![04b90f0b-47ce-43dc-a1cc-3cd47baf29eb](https://user-images.githubusercontent.com/59893804/76345530-865ab580-62d1-11ea-857b-984eac8967b9.jpg)
 
-![2](https://user-images.githubusercontent.com/59893804/75741371-60814f80-5cd8-11ea-8971-c89ae9988996.jpg)
 
 ## Resultado 
+![891d682b-e4d5-413b-a5d8-8eea8b9ef876](https://user-images.githubusercontent.com/59893804/76345533-88247900-62d1-11ea-96c5-57d107a3a258.jpg)
 
-![4 (2)](https://user-images.githubusercontent.com/59893804/75742556-fc608a80-5cdb-11ea-8a63-4a86a535b194.jpg)
 
 
 ## Autores
